@@ -4,9 +4,11 @@
 <div align=center>
   👩🏻‍💻 Hey, I'm Haeju Lee who studying in S/W Development at Dankook Univ.   
   
+  I go by Anne if you want.  
   🍎 Currently I'm studying Swfit to be a iOS Developer.  
   🗣 I can speak fluently 🇰🇷 🇺🇸  
-
+  ✈️ I love traveling.
+  
   
   <br><br>  
 <div align=center> 
