@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=Hey,%20Lovely%20to%20meet%20you!&fontSize=70&fontColor=485563&animation=fadeIn&desc=Haeju's%20Github%20Profile&descAlignY=65&descAlign=79)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=Hey,%20Lovely%20to%20meet%20you!&fontSize=70&fontColor=FAFAFA&animation=fadeIn&desc=Haeju's%20Github%20Profile&descAlignY=65&descAlign=82)
+
+<div align=center> 
+🫧 CONTACT 🫧
+  <br><br>  
+  <img src="https://www.instagram.com/had2_you/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 <!--
 **had2-you/had2-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
