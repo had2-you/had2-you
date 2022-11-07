@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=Hey,%20Lovely%20to%20meet%20you!&fontSize=70&fontColor=FAFAFA&animation=fadeIn&desc=Haeju's%20Github%20Profile&descAlignY=65&descAlign=82)
 
-<br><br>  
+<br>
 <div align=center>
   👩🏻‍💻 Hey, I'm Haeju Lee who studying in S/W Development at Dankook Univ.   
   
