@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=Hey,%20Lovely%20to%20meet%20you!&fontSize=70&fontColor=485563&animation=fadeIn&desc=Haeju's%20Github%20Profile&descAlignY=65&descAlign=79)
 
 <!--
 **had2-you/had2-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
